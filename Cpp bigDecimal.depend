@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701544598 source:d:\prpblem solving\cpp bigdecimal\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+
