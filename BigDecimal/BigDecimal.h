@@ -2,8 +2,8 @@
 // Created by OSAMA ASHRAF on 4/24/2024.
 //
 
-#ifndef CPP_BIGDECIMAL_BIGDECIMAL_H
-#define CPP_BIGDECIMAL_BIGDECIMAL_H
+#ifndef MY_Cpp_LIBRARY_BIGDECIMAL_H
+#define MY_Cpp_LIBRARY_BIGDECIMAL_H
 
 
 #include <iostream>
@@ -523,4 +523,4 @@ public:
 
 
 
-#endif //CPP_BIGDECIMAL_BIGDECIMAL_H
+#endif //MY_Cpp_LIBRARY_BIGDECIMAL_H

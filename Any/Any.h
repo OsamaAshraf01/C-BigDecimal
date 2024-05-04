@@ -18,8 +18,8 @@
     cout << x + y << endl;
     cout << (x > y);
  =====================================*/
-#ifndef RA7AL_ANY_H
-#define RA7AL_ANY_H
+#ifndef MY_Cpp_LIBRARY_ANY_H
+#define MY_Cpp_LIBRARY_ANY_H
 #include <iostream>
 #include <variant>
 #include <string>
@@ -53,4 +53,4 @@ public:
 };
 
 
-#endif //RA7AL_ANY_H
+#endif //MY_Cpp_LIBRARY_ANY_H
